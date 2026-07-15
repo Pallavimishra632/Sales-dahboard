@@ -34,6 +34,6 @@ This project is an interactive Power BI dashboard built to analyze mobile sales 
 Sample Mobile Sales Dataset
 
 ## 👩‍💻 Author
-Kiran Mishra
+Pallavi Mishra
 
 ⭐ If you like this project, don't forget to star this repository!
