@@ -1,4 +1,4 @@
-# Sales-dahboard
+# Sales-dashboard
 # 📱 Mobile Sales Dashboard | Power BI
 
 ## 📌 Project Overview
